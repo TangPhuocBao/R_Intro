@@ -64,4 +64,21 @@ tail(dataset4) # hiển thị vài dòng cuối
 str(dataset4)  # hiển thị cấu trúc của dữ liệu
 summary(dataset4)
 
+#6. Thay đổi kiểu dữ liệu cột
 dataset4$Check<-as.logical(dataset4$Check)
+summary(dataset4)
+
+
+######## Bài tập:
+######## Bộ dữ liệu iris
+data() # Lấy ra toàn bộ dataset được build trong R
+iris
+View(iris)
+str(iris)
+summary(iris)
+head(iris)
+tail(iris)
+
+CO2
+View(CO2)
+
