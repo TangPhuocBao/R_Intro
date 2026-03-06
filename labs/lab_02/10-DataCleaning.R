@@ -281,3 +281,6 @@ sum(!complete.cases(alcohol))  # Phải = 0
 write.csv(alcohol, "../data/dataset - student alcohol consumption/student-alcohol-cleaned.csv", row.names = FALSE)
 
 # Quy trình làm việc được khuyến nghị
+# Xem trên github
+
+data()
