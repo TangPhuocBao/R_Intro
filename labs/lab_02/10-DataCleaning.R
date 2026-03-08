@@ -17,7 +17,7 @@
 # 2.2. BƯỚC 1: Load và Khám phá Dữ liệu
 
 # Load dữ liệu
-alcohol <- read.csv("../data/dataset - student alcohol consumption/student-alcohol.csv")
+alcohol <- read.csv("C:/R/labs/data/dataset - student alcohol consumption/student-alcohol.csv")
 View(alcohol)
 
 # Xem 6 dòng đầu tiên
@@ -237,7 +237,7 @@ lapply(alcohol[, leveledVariables], summary)
 
 # Ý nghĩa:
 #   
-#   freetime: Thời gian rảnh sau giờ học
+# freetime: Thời gian rảnh sau giờ học
 # goout: Tần suất đi chơi với bạn bè
 # Dalc: Mức độ uống rượu trong ngày thường (Daily Alcohol Consumption)
 # Walc: Mức độ uống rượu cuối tuần (Weekend Alcohol Consumption)
