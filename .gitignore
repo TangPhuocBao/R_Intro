@@ -2,5 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+<<<<<<< HEAD
 labs/data/properties/properties_2016.csv
 labs/data/properties/properties_2016.csv
+=======
+>>>>>>> upstream/main
