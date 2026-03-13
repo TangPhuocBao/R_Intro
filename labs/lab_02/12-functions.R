@@ -871,7 +871,7 @@ safe_log("abc")  # "Lỗi: ..."
   
   ## TÀI LIỆU THAM KHẢO
   
-  1. **R Documentation - Functions**: `?function`
+1. **R Documentation - Functions**: `?function`
 2. **Advanced R - Functions**: https://adv-r.hadley.nz/functions.html
 3. **R for Data Science - Functions**: https://r4ds.had.co.nz/functions.html
 4. **Quick-R - Creating Functions**: https://www.statmethods.net/management/userfunctions.html
